@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Joana, you can call me Jojo, Jo or whatever you prefer
+## Hi there 👋 I'm Joana as known Jojo or Jo
 # 💫 About Me:
 🔭 Currently working on a Volleyball quiz <br> 💡 Currently learning React and Tailwind<br>💭 Random fact about me : I've played volleyball for over 10 years and won MPV in international competitions <br> 🌌 My hobbies: Reading, Photography and I plan on start gaming (got a horror based on backrooms project in prospect)<br>🍿 I am a horror and a anime nerd 
 
